@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JayMCoding
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 • Hi, I’m @JayMCoding
+- 💻 • I’m a Canadian Developper
+- 🔔 • I’m looking for some projects
+- 🏅 • I master JavaScript, Python, C++ and MySql
+- 📫 • How to reach me: Jeremie#6796 on Discord
 
 <!---
 JayMCoding/JayMCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
